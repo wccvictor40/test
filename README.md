@@ -1,3 +1,5 @@
+              Event Management APP
+
 I used a third party tool [1] to create an Event management App
 [2] is used for adding events
 [3] is used for managing events
