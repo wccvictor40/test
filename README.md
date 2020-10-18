@@ -8,7 +8,7 @@ I used a third party tool [1] to create an Event management App
 I am not sure how to build and deploy locally (no dependencies on AWS, Heroku, or other
 external services), not sure how to write in Python, Ruby, or Perl but I am familiar with Java.
 
-sorry, i am not good at making RestFul API...
+sorry, i am not good at building RestFul API...
 
 
 [1] https://c0hcz306.caspio.com/ui/apps/Event_Management
